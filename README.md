@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Julio Cesar Martins!
+# 👋 Olá, eu sou o Julio Martins!
 
 🎯 **Data Analyst | Python | SQL | Power BI | Machine Learning**  
 📊 Apaixonado por transformar dados em insights estratégicos.   
